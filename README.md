@@ -1,7 +1,7 @@
 # ZQN的自动化测试
 
 - config 配置文件
-- -database 数据库配置
+- database 数据库配置
 - driver 驱动配置(查询MySQL 和 Redis等方法)
 - logs 日志目录
 - package 用于存放自动化测试扩展包，例：HTMLTestRunner.py。
