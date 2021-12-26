@@ -10,5 +10,3 @@
 - testcase 测试用例代码
 - testdata 测试数据
 - utils 公共方法 （所有的支撑代码都在这里，包括读取config的类、写log的类、读取excel、xml的类、生成报告的类（如HTMLTestRunner）等类和方法，都在这里）
-- 
-
